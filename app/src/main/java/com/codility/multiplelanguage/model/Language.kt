@@ -19,7 +19,7 @@ class Language(name: String, code: String) : Serializable {
             list.add(Language("Hindi", "hi"))
             list.add(Language("Bengali", "bn"))
             list.add(Language("Nepali", "ne"))
-            list.add(Language("Sweden", "sv"))
+            list.add(Language("Swedish", "sv"))
             return list
         }
     }
