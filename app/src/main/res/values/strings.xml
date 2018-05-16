@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Multiple Language</string>
+    <string name="applicant_name">Android Codility</string>
+    <string name="info">Spinners provide a quick way to select one value from a set. In the default state, a spinner shows its currently selected value. Touching the spinner displays a dropdown menu with all other available values, from which the user can select a new one.
+    \n\nApps include resources that can be specific to a particular culture. For example, an app can include culture-specific strings that are translated to the language of the current locale. It\'s a good practice to keep culture-specific resources separated from the rest of your app. Android resolves language- and culture-specific resources based on the system locale setting. You can provide support for different locales by using the resources directory in your Android project.</string>
+    <string name="exit">Exit</string>
+</resources>

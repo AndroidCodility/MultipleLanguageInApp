@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Multiple Language</string>
+    <string name="applicant_name">Android Codility</string>
+    <string name="info">Spinners ger ett snabbt sätt att välja ett värde från en uppsättning. I standardläget visar en spinnare det aktuella valda värdet. Om du trycker på spinnaren visas en rullgardinsmeny med alla andra tillgängliga värden, från vilken användaren kan välja en ny.
+    \n\nApper innehåller resurser som kan vara specifika för en viss kultur. Till exempel kan en app innehålla kulturspecifika strängar som är översatta till språket i det aktuella läget. Det är en bra metod att hålla kulturspecifika resurser separerade från resten av din app. Android löser språk- och kulturspecifika resurser baserade på inställningen av systeminställningar. Du kan ge stöd för olika lokala platser genom att använda resursmappen i ditt Android-projekt.</string>
+    <string name="exit">Utgång</string>
+</resources>
